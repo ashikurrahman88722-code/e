@@ -1,0 +1,14 @@
+.font-open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+.banner{
+    width: 1600px;
+    bottom: 1280px;
+    margin-top: 10px;
+}
+.banner-content{
+    margin-top: 100px;
+    align-items: center;
+    margin-left: 750px;
+}
